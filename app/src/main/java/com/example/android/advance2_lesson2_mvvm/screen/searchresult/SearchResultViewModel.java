@@ -27,7 +27,7 @@ public class SearchResultViewModel extends BaseViewModel
     }
 
     @Override
-    public void onItemRecyclerViewClick(User item) {
+    public void onItemRecyclerViewClick(User item) {asdd
     }
     
 }
